@@ -4,6 +4,7 @@ Was soll erreicht werden?
 - Rollenspiel soll gespielt werden. 
 - Erzähler und Spieler
 - Alle Teilnehmer sollen würfeln können
+- Whiteboard zum Zeichnen
 - Ergebnisse müssen an den richtigen Personen übermittelt werden.
 - Es gibt ein Inventar und Fähigkeiten, welche vom Erzähler immer eingeblickt werden können.
 - (Bemalbare) Karte 
